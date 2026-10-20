@@ -11,6 +11,6 @@ void run_cb() {
 */
 import "C"
 
-func main() {
+func main3() {
     C.run_cb()
 }
