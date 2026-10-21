@@ -18,4 +18,4 @@ func asyncCompute(n C.int) C.int {
 	return C.int(result)
 }
 
-func main() {}
+func main5() {}
